@@ -1,0 +1,90 @@
+#div1
+{
+    display:flex;
+    flex-direction: row;
+    background-color: rgb(242, 242, 242);
+}
+
+#img1
+{
+    background-color: rgb(228, 115, 78);
+    height:600px;
+    width:450px;
+    margin-top:60px;
+    margin-left: 350px;
+}
+#div2
+{
+    height:600px;
+    width:450px;
+    margin-top:60px;
+    background-color: white;
+}
+#h1
+{
+    font-size: 24px;
+    color: rgb(42, 58, 80);
+    letter-spacing: -0.1px;
+    margin-left: 40px;
+    margin-top:90px;
+}
+#p1
+{
+    margin-top:50px;
+    margin-left: 40px;
+    font-size:18px;
+    color:lightslategray;
+}
+#inp1
+{
+    margin-left: 40px;
+    height:55px;
+    width:350px;
+    background-color: rgb(242, 242, 242); 
+    font-size:15px;
+    border-style: solid;
+    border-color: rgb(162, 175, 187);
+}
+#btn1
+{
+    height:50px;
+    width:360px;
+    background-color:lightgrey ;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-style: none;
+    border-radius:5px ;
+    color: white;
+    font-size: large;
+    font-weight: 700;
+}
+#p2{
+   text-align: center;
+    margin-top: 50px;
+    color: rgb(42, 58, 80);
+    font-weight: 500;
+    font-size: large;
+}
+#sp1
+{
+    color: rgb(228, 115, 78);
+    text-decoration: underline;
+}
+#p3
+{
+    margin-top: 80px;
+    color:  rgb(162, 175, 187);
+    font-size: 15px;
+    margin-left: 15px;
+}
+#sp2
+{
+    color: rgb(228, 115, 78);
+    text-decoration: underline;
+}
+#img2{
+    height:600px;
+    width:450px;
+    
+   
+}
